@@ -3,3 +3,5 @@ Presentacion del codigo de c++ para el proyecto final de fundamentos de programa
 
 
 Profe este repositorio esta creado con la finalidad de que sea mas sencillo el poder leer el archivo del codigo de c++ por lo que en word puede quedar un poco raro o moverse y dañar ciertas identaciones; Por lo que con el grupo decidimos montarle el archivo aqui.
+
+Para visualizar el codigo por favor abra el archivo main.cpp
